@@ -5,12 +5,13 @@ COVID-19 created an unprecendented volatile labour market. The goal of the proje
 
 ## Process
 We will work in an iterative process by building stats model from smaller series of data 
-### Step 1: 
-### Step 2:
-### Step 3:
-### Step 4:
-### Step 5:
-
+### Step 1: Loadigng the dataset.
+### Step 2:Understanding the dataset.
+### Step 3:Data pre processing.
+### Step 4:Data visualization.
+### Step 5:Building a regression model
+### step 6:Model evaluation.
+### step 7:Model prediction.
 ## Results
 (Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
 
