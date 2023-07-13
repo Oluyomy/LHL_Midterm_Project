@@ -3,11 +3,11 @@
 ## Project/Goals
 COVID-19 created an unprecendented volatile labour market. The goal of the project is to explore the trend in job dataset from World Bank Data and produce insights about the current job market that is valuable for recruitment and selection strategies. The understaning in the job market will assist with resource allocation to help the labour market recover from the effect of the pandemic. 
 - Project questions:
-    1.
-    2.
+    1. How education contribute to the % GDP?
+    2. 
     3.
     4.
-    5.
+    
 
 
 ## Process
