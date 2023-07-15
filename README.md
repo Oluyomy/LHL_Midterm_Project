@@ -14,11 +14,12 @@
 ### Step 1: Obtaining data
 - Dataset were extracted from World Bank Data. (https://databank.worldbank.org/source/world-development-indicators)
 - The dataset included information about employment and development  the top 58 global economies  according to the global economy.(https://www.theglobaleconomy.com/rankings/gdp_share/)
+- Raw data is save in the raw_data folder
 ### Step 2: Loading and understanding the dataset.
 - Working with Work Bank Data glossary and metadata to understand the each variables included in the dataset. 
 - Research and educate on general information about the relationship between employment and the economy.
 ### Step 3: Data pre-processing.
-- Structure the data for efficient analysis.
+- Structure the data for efficient analysis. Structure data save in the clean_data folder to use for analysis.
 - Split the raw data frame into 3 smaller dataframe with one general population (df_population) dataframe and 2 gender ( df_female and df_male) dataframe. Create a search function to split the the column contains key word " male" from the raw dataframe. Then filter out "female" to create thefemale dataframe.
 - Extract 4 different datasets based on the data structure provided from World Bank Data.
 ### Step 4: EDA
@@ -30,6 +31,7 @@
 
 
 ## Results
+NOTE: Results are store in the Output folder
 ### Unemployment and economic factor results:
 - Linear Regression model indicated that the prediction model can only account for 25% of population. Variation in type of economy across the population could reflect  on small Adj. R-squared. Improvement can be make by classified countries with similar type of economy to analyze how the independent variables effect the unemployment rate. Further cleaning of outlier from the dataset will help improve the fit of the stat model.
 
