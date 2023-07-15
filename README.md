@@ -40,7 +40,7 @@
 ### GDP and labor force educational level results:
 - The result indicates potential pattern or trend in the dataset that is ploting GDP growth against labor forces with different educational level. There is likely a corellation between GDP and different level of education with R-squared indicate 63% of the variance in the dependent variable (GDP Growth) that can be predicted by independent variables included in the linear regression model. It also show that the model is the best fit for this analysis.
 
-<img src= image/linear_regression_model_education.png>
+<img src= image/linear_regression_model_eductaion.png>
 
 - The second result show the contribution of each educational level to GDP growth and there is no difference in the growth of these educational attainment per year. 
 
